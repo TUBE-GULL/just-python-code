@@ -1,0 +1,5 @@
+# зависимости для кода 
+!pip install argparse
+# зависимости для тестов 
+!pip install pytest 
+# !pip install csv
